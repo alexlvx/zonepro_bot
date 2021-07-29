@@ -1,2 +1,0 @@
-{"update_id":906674887,
-"message":{"message_id":161,"from":{"id":213872332,"is_bot":false,"first_name":"Wp","last_name":"Clip","username":"wpclip","language_code":"ru"},"chat":{"id":213872332,"first_name":"Wp","last_name":"Clip","username":"wpclip","type":"private"},"date":1627549706,"text":"sfdsgf"}}
